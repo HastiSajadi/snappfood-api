@@ -255,7 +255,7 @@
     "foodparty":[
         {
             "id":1,
-            "restaurant":"پیتزا شیلا (حجاب)",
+            "restaurant": "رستوران پروفسور",
             "deliveryPrice": "10000 تومان",
             "img":"https://cdn.snappfood.ir/641x641/cdn/94/92/product_image/zoodfood/6511852967ae9.jpg",
             "title":"پیتزا هات چیکن",
@@ -267,7 +267,7 @@
         },
           {
             "id":2,
-            "restaurant":"پیتزا شیلا (حجاب)",
+            "restaurant":"هایدا",
             "deliveryPrice": "10000 تومان",
             "img":"https://cdn.snappfood.ir/641x641/cdn/94/92/product_image/zoodfood/6511852861dd1.jpg",
             "title": "پیتزا پپرونی",
@@ -291,7 +291,7 @@
         },
           {
             "id":4,
-            "restaurant":"پیتزا شیلا (حجاب)",
+            "restaurant":"فیت میل (فلسطین)",
             "deliveryPrice": "10000 تومان",
             "img":"https://cdn.snappfood.ir/641x641/cdn/94/92/product_image/zoodfood/6511852967ae9.jpg",
             "title":"پیتزا هات چیکن",
